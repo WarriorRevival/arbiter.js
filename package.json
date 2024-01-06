@@ -4,7 +4,7 @@
 	"description": "A new era.",
 	"main": "src/index.js",
 	"scripts": {
-		"start": "node .",
+		"start": "node ."
 	},
   	"keywords": [
     		"Warrior",
