@@ -1,0 +1,24 @@
+{
+	"name": "bingle-arbiter",
+	"version": "0.1",
+	"main": "src/index.js",
+	"scripts": {
+		"start": "node .",
+		"dev": "nodemon . --exec \"clear; npm run start\""
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@calones.xyz:Bingle/arbiter.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.27.2",
+		"chalk": "^4.1.2",
+		"dotenv": "^16.0.3",
+		"express": "^4.18.2",
+		"soap": "^1.0.0",
+		"wait-port": "^1.0.4"
+	}
+}
