@@ -1,18 +1,21 @@
 {
-	"name": "bingle-arbiter",
-	"version": "0.1",
+	"name": "arbiterjs",
+	"version": "0.2",
+	"description": "A new era.",
 	"main": "src/index.js",
 	"scripts": {
 		"start": "node .",
-		"dev": "nodemon . --exec \"clear; npm run start\""
 	},
-	"repository": {
-		"type": "git",
-		"url": "git@calones.xyz:Bingle/arbiter.git"
-	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC",
+  	"keywords": [
+    		"Warrior",
+    		"Old",
+    		"Roblox",
+    		"Revival",
+    		"Old",
+   		"Roblox"
+  	],
+	"author": "WarriorRevival",
+	"license": "DBAD",
 	"dependencies": {
 		"axios": "^0.27.2",
 		"chalk": "^4.1.2",
