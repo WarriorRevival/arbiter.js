@@ -12,7 +12,7 @@
 
 The Bingle arbiter was created by cirroskais & unexp. It is designed to be used with almost any revival backend.
 
-It comes preloaded with some LUA scripts made by kinery and skul (d9mz / oa6z).
+It comes preloaded with some LUA scripts made by kinery and skul (d9mz / oa6z), and more scripts have been added too.
 
 You may have to replace/modify these scripts when implementing for your own projects.
 
