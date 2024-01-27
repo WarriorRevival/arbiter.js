@@ -206,7 +206,7 @@ class RenderJob extends Job {
 			},
 		}).catch((e) => false)
 
-		logger.info(`[${this.id}] Headshot RenderJob finished for ${id}`)
+		logger.info(`[${this.id}] Texture RenderJob finished for ${id}`)
 
 		this.Stop()
 
